@@ -33,23 +33,27 @@ LeetCode Solution
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mysomu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Array
