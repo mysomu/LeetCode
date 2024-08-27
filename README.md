@@ -7,6 +7,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysomu/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mysomu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysomu/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/mysomu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
