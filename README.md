@@ -8,6 +8,7 @@ LeetCode Solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysomu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mysomu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -19,6 +20,7 @@ LeetCode Solution
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysomu/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/mysomu/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +108,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
