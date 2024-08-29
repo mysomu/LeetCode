@@ -30,6 +30,7 @@ LeetCode Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/mysomu/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -111,5 +112,10 @@ LeetCode Solution
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
