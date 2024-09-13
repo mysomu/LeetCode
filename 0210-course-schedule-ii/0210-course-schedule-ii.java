@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         // Create the adjacency list for graph representation
@@ -13,20 +15,16 @@ class Solution {
 
         // Initialize the result array
         int[] ans = new int[numCourses];
+        int[] visited = new int[numCourses]; // 0 = unvisited, 1 = visiting, 2 = visited
 
-        // Detect if there's a cycle, return an empty array if found
-        if (detectCycle(adj, numCourses)) {
-            return new int[0];
-        }
-
-        // Perform topological sorting using DFS
         Stack<Integer> mystack = new Stack<>();
-        boolean[] visited = new boolean[numCourses];
 
         // Traverse each course
         for (int i = 0; i < numCourses; ++i) {
-            if (!visited[i]) {
-                dfs(adj, i, visited, mystack);
+            if (visited[i] == 0) {
+                if (detectCycleDFS(adj, visited, i, mystack)) {
+                    return new int[0]; // Return empty array if a cycle is detected
+                }
             }
         }
 
@@ -39,44 +37,20 @@ class Solution {
         return ans;
     }
 
-    // Cycle detection method using DFS
-    private boolean detectCycle(List<List<Integer>> adj, int n) {
-        int[] visited = new int[n];
-        for (int i = 0; i < n; ++i) {
-            if (visited[i] == 0) {
-                if (detectCycleUtil(adj, visited, i)) {
+    // Detects cycles and performs DFS for topological sort
+    private boolean detectCycleDFS(List<List<Integer>> adj, int[] visited, int v, Stack<Integer> mystack) {
+        visited[v] = 1; // Mark the node as visiting
+        for (int neighbor : adj.get(v)) {
+            if (visited[neighbor] == 0) {
+                if (detectCycleDFS(adj, visited, neighbor, mystack)) {
                     return true;
                 }
+            } else if (visited[neighbor] == 1) {
+                return true; // Cycle detected
             }
         }
+        visited[v] = 2; // Mark the node as fully visited
+        mystack.push(v); // Push the course to the stack after visiting all its dependencies
         return false;
-    }
-
-    // Utility method for detecting cycles recursively
-    private boolean detectCycleUtil(List<List<Integer>> adj, int[] visited, int v) {
-        visited[v] = 1; // mark as visiting
-        for (int i = 0; i < adj.get(v).size(); ++i) {
-            int nextCourse = adj.get(v).get(i);
-            if (visited[nextCourse] == 0) {
-                if (detectCycleUtil(adj, visited, nextCourse)) {
-                    return true;
-                }
-            } else if (visited[nextCourse] == 1) {
-                return true; // a cycle is detected
-            }
-        }
-        visited[v] = 2; // mark as fully visited
-        return false;
-    }
-
-    // Topological sort method using DFS
-    private void dfs(List<List<Integer>> adj, int v, boolean[] visited, Stack<Integer> mystack) {
-        visited[v] = true;
-        for (int i = 0; i < adj.get(v).size(); ++i) {
-            if (!visited[adj.get(v).get(i)]) {
-                dfs(adj, adj.get(v).get(i), visited, mystack);
-            }
-        }
-        mystack.push(v); // push the course to the stack after visiting all its dependencies
     }
 }
