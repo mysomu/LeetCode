@@ -87,6 +87,7 @@ LeetCode Solution
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mysomu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
@@ -133,6 +135,7 @@ LeetCode Solution
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
