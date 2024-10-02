@@ -28,6 +28,7 @@ LeetCode Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ LeetCode Solution
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/mysomu/LeetCode/tree/master/0330-patching-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mysomu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Divide and Conquer
 |  |
@@ -146,6 +148,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
