@@ -13,6 +13,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mysomu/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mysomu/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mysomu/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
