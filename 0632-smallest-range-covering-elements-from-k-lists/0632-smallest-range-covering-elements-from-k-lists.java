@@ -1,42 +1,41 @@
 class Solution {
     public int[] smallestRange(List<List<Integer>> nums) {
-        int n = nums.size();
-        int[] pointers = new int[n];
-        int min = Integer.MAX_VALUE;
+        int first = 0, last = 0;
         int max = Integer.MIN_VALUE;
-        int[] result = new int[2];
         int range = Integer.MAX_VALUE;
-
-        while (true) {
-
-            min = Integer.MAX_VALUE;
-            max = Integer.MIN_VALUE;
-            int minListIndex = -1;
-
-            for (int i = 0; i < n; i++) {
-                int number = nums.get(i).get(pointers[i]);
-                if (number < min) {
-                    min = number;
-                    minListIndex = i;
-                }
-                if (number > max) {
-                    max = number;
-                }
+        int n = nums.size();
+        PriorityQueue<Node> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a.val));
+        for(int i = 0; i < n; i++){
+            int mx = nums.get(i).get(0);
+            max = Math.max(max, mx);
+            pq.add(new Node(mx, i, 0));
+        }
+        while(pq.size() == n){
+            Node curr = pq.poll();
+           if(range > max - curr.val){
+                first = curr.val;
+                last = max;
+                range = max - curr.val;
             }
-
-            if (max - min < range) {
-                range = max - min;
-                result[0] = min;
-                result[1] = max;
-            }
-
-            pointers[minListIndex]++;
-
-            if (pointers[minListIndex] >= nums.get(minListIndex).size()) {
+            if(curr.col < nums.get(curr.row).size() - 1){
+                pq.add(new Node(nums.get(curr.row).get(curr.col + 1), curr.row, curr.col + 1));
+                max = Math.max(max, nums.get(curr.row).get(curr.col + 1));
+            } else{
                 break;
             }
         }
+        return new int[]{first, last};
+    }
 
-        return result; // Return the smallest range found
+    public class Node {
+        int val;
+        int row;
+        int col;
+
+        public Node(int val, int row, int col) {
+            this.val = val;
+            this.row = row;
+            this.col = col;
+        }
     }
 }
