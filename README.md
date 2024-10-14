@@ -102,6 +102,7 @@ LeetCode Solution
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [0330-patching-array](https://github.com/mysomu/LeetCode/tree/master/0330-patching-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -142,6 +143,7 @@ LeetCode Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mysomu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
