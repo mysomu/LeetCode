@@ -41,6 +41,7 @@ LeetCode Solution
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@ LeetCode Solution
 | [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +140,7 @@ LeetCode Solution
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mysomu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
