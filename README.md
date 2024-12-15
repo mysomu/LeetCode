@@ -121,6 +121,7 @@ LeetCode Solution
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -157,6 +158,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mysomu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mysomu/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -228,6 +230,7 @@ LeetCode Solution
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mysomu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
