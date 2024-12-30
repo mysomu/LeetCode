@@ -198,6 +198,7 @@ LeetCode Solution
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/mysomu/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/mysomu/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
