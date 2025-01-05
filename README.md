@@ -52,6 +52,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2465-shifting-letters-ii](https://github.com/mysomu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -133,6 +134,7 @@ LeetCode Solution
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/mysomu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/mysomu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mysomu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2554-minimum-total-distance-traveled](https://github.com/mysomu/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -186,6 +188,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/mysomu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/mysomu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mysomu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Stack
