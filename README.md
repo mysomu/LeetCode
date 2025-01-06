@@ -49,6 +49,7 @@ LeetCode Solution
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -128,6 +129,7 @@ LeetCode Solution
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -185,6 +187,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/mysomu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
