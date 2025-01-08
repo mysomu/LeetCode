@@ -202,6 +202,7 @@ LeetCode Solution
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/mysomu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/mysomu/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
@@ -261,6 +262,7 @@ LeetCode Solution
 ## Monotonic Stack
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/mysomu/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Simulation
@@ -273,6 +275,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mysomu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/mysomu/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -307,4 +310,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mysomu/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
