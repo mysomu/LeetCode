@@ -54,6 +54,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/mysomu/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
@@ -136,6 +137,7 @@ LeetCode Solution
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/mysomu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/mysomu/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -310,6 +312,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Data Stream
 |  |
 | ------- |
