@@ -43,6 +43,7 @@ LeetCode Solution
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mysomu/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mysomu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ LeetCode Solution
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mysomu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mysomu/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mysomu/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mysomu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mysomu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -309,6 +311,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mysomu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
