@@ -36,6 +36,7 @@ LeetCode Solution
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -86,6 +87,7 @@ LeetCode Solution
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ LeetCode Solution
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -123,6 +126,7 @@ LeetCode Solution
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -211,6 +215,7 @@ LeetCode Solution
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/mysomu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -253,6 +258,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/mysomu/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
