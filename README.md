@@ -149,6 +149,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/mysomu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
