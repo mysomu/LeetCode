@@ -173,6 +173,7 @@ LeetCode Solution
 | [2792-neighboring-bitwise-xor](https://github.com/mysomu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mysomu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mysomu/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/mysomu/LeetCode/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
