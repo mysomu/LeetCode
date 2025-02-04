@@ -1,27 +1,16 @@
 class Solution {
     public int maxAscendingSum(int[] nums) {
-        Stack<Integer> st = new Stack<>();
+        int sum=nums[0];
         int res =0;
-        int sum=0;
-        int i=0;
-        while(i<nums.length){
-            if(st.isEmpty() || st.peek()<nums[i]){
-                st.push(nums[i]);
+        for(int i=1; i<nums.length; i++){
+            if(nums[i]>nums[i-1]){
+                sum += nums[i];
             }else{
-                while(!st.isEmpty()){
-                    sum +=st.pop();
-                }
-            res = Math.max(res,sum);
-            sum=0;
-            st.push(nums[i]);
+                res = Math.max(res, sum);
+                sum = nums[i];
             }
-            i++;
+
         }
-        while(!st.isEmpty()){
-            sum += st.pop();
-        }
-        res= Math.max(res,sum);
-        
-        return res;        
+        return Math.max(res,sum);       
     }
 }
