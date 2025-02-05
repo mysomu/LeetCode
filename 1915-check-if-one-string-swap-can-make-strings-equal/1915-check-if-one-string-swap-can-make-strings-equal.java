@@ -1,23 +1,20 @@
 class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
-        if(s1.length() != s2.length()) return false;
-        if(s1.equals(s2)) return true;
-
-        ArrayList<Integer> idxs = new ArrayList<>();
-        int size = s1.length();
-
-        for(int i=0; i<size; i++){
-            if(s1.charAt(i) != s2.charAt(i)) idxs.add(i);
+        int count=0;
+        int n=s1.length();
+        int freq[]=new int[26];
+        for(int i=0;i<n;i++){
+            if(s1.charAt(i)!=s2.charAt(i)){
+                count++;
+                freq[s1.charAt(i)-'a']++;
+                freq[s2.charAt(i)-'a']--;
+            }
         }
-
-        if(idxs.size() != 2) return false;
-
-        int idx1 = idxs.get(0);
-        int idx2 = idxs.get(1);
-
-        if(s1.charAt(idx1) == s2.charAt(idx2)  && s1.charAt(idx2) == s2.charAt(idx1)){
-            return true;
+        for(int i:freq){
+            if(i!=0){
+                count++;
+            }
         }
-        return false;
+        return count==0 || count==2;
     }
 }
