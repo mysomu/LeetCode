@@ -74,6 +74,7 @@ LeetCode Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Tree
 |  |
@@ -109,6 +110,7 @@ LeetCode Solution
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -145,6 +147,7 @@ LeetCode Solution
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -225,6 +228,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mysomu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
