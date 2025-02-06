@@ -37,6 +37,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -150,6 +151,7 @@ LeetCode Solution
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -277,6 +279,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
