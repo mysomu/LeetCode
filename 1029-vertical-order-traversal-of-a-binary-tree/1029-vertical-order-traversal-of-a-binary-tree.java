@@ -15,41 +15,58 @@
  */
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
+        if (root == null)
+            return new ArrayList<>();
 
-        List<List<Integer>> collection = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        Map<Integer, List<Integer>> map = new TreeMap<>(); // Maintain sorted order of columns
+        Queue<Pair> queue = new LinkedList<>();
 
-        TreeMap<Integer, Map<Integer, List<Integer>>> treeMap = new TreeMap<>();
+        queue.offer(new Pair(root, 0));
 
-        inorderTraversal(root, treeMap, 0, 0);
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            Map<Integer, List<Integer>> levelMap = new HashMap<>();
 
-        for (var colEntry : treeMap.entrySet()) {
+            for (int i = 0; i < size; i++) {
+                Pair current = queue.poll();
+                TreeNode node = current.node;
+                int col = current.col;
 
-            List<Integer> list = new ArrayList<>();
+                levelMap.putIfAbsent(col, new ArrayList<>());
+                levelMap.get(col).add(node.val);
 
-            for (var rowValues : colEntry.getValue().values()) {
-
-                Collections.sort(rowValues);
-                list.addAll(rowValues);
+                if (node.left != null)
+                    queue.offer(new Pair(node.left, col - 1));
+                if (node.right != null)
+                    queue.offer(new Pair(node.right, col + 1));
             }
 
-            collection.add(list);
+            // Sort the level values to maintain order
+            for (Map.Entry<Integer, List<Integer>> entry : levelMap.entrySet()) {
+                List<Integer> list = entry.getValue();
+                Collections.sort(list);
+                map.putIfAbsent(entry.getKey(), new ArrayList<>());
+                map.get(entry.getKey()).addAll(list);
+            }
         }
 
-        return collection;
+        // Add sorted map values to result
+        for (List<Integer> values : map.values()) {
+            result.add(values);
+        }
+
+        return result;
     }
 
-    private static void inorderTraversal(TreeNode node, TreeMap<Integer, Map<Integer, List<Integer>>> treeMap,
-            int column,
-            int row) {
+    // Helper class for BFS traversal
+    private static class Pair {
+        TreeNode node;
+        int col;
 
-        if (node == null) {
-            return;
+        Pair(TreeNode node, int col) {
+            this.node = node;
+            this.col = col;
         }
-
-        treeMap.computeIfAbsent(column, k -> new TreeMap<>()).computeIfAbsent(row, k -> new ArrayList<>())
-                .add(node.val);
-
-        inorderTraversal(node.left, treeMap, column - 1, row + 1);
-        inorderTraversal(node.right, treeMap, column + 1, row + 1);
     }
 }
