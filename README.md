@@ -66,6 +66,7 @@ LeetCode Solution
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mysomu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -260,6 +261,7 @@ LeetCode Solution
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/mysomu/LeetCode/tree/master/3447-clear-digits) |
@@ -338,6 +340,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mysomu/LeetCode/tree/master/3447-clear-digits) |
