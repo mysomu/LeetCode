@@ -60,6 +60,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/mysomu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mysomu/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
@@ -210,6 +211,7 @@ LeetCode Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mysomu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mysomu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -278,6 +280,7 @@ LeetCode Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mysomu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
