@@ -112,6 +112,7 @@ LeetCode Solution
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -126,6 +127,7 @@ LeetCode Solution
 | [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -140,6 +142,7 @@ LeetCode Solution
 | [0004-median-of-two-sorted-arrays](https://github.com/mysomu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -156,6 +159,7 @@ LeetCode Solution
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mysomu/LeetCode/tree/master/0543-diameter-of-binary-tree) |
