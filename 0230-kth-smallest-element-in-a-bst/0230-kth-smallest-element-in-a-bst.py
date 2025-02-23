@@ -5,24 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def kthSmallest(self, root: TreeNode, k: int) -> int:
-        k_arr = [k]
-        return self.solve(root, k_arr)
-    
-    def solve(self, root, k):
-        if not root:
-            return 0
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        count = [0]  
+        result = [None]
+        self.inorder(root, k, count, result)
+        return result[0]
+
+    def inorder(self, node: Optional[TreeNode], k: int, count: list, result: list):
+        if node is None or result[0] is not None:
+            return
+
+        self.inorder(node.left, k, count, result)
         
-        left = self.solve(root.left, k)
+        count[0] += 1
+        if count[0] == k:
+            result[0] = node.val
+            return
         
-        if left != 0:
-            return left
-        
-        k[0] -= 1
-        
-        if k[0] == 0:
-            return root.val
-        
-        right = self.solve(root.right, k)
-        return right
-        
+        self.inorder(node.right, k, count, result)    
