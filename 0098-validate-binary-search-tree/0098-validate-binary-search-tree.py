@@ -6,20 +6,12 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        # Helper function to perform DFS traversal
-        def bst(root, min_val=float("-inf"), max_val=float("inf")):
-            # Base case: If the current node is None, return True
-            if root == None:
+        def validate(node, prev=float('-inf'), next=float('inf')) -> bool:
+            if not node:
                 return True
-
-            # Check if the current node's value is within the valid range
-            if not (min_val < root.val < max_val):
+            if not (prev < node.val < next):
                 return False
+            return validate(node.left, prev, node.val) and validate(node.right, node.val, next)
 
-            # Recursively check the left and right subtrees with updated ranges
-            return bst(root.left, min_val, root.val) and bst(
-                root.right, root.val, max_val
-            )
-
-        # Call the helper function with the root node
-        return bst(root)
+        return validate(root)
+      
