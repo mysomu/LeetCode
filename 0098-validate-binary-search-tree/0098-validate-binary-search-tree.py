@@ -5,25 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.prev = float('-inf')
-        self.isValid = True
-
-    def inorder(self, root: Optional[TreeNode]) -> None:
-        if not self.isValid or not root:
-            return
-
-        self.inorder(root.left)
-
-        if self.prev >= root.val:
-            self.isValid = False
-            return
-        self.prev = root.val
-
-        self.inorder(root.right)
-
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        self.prev = float('-inf')  # Reset prev for each call
-        self.isValid = True  # Reset isValid for each call
-        self.inorder(root)
-        return self.isValid
+        # Helper function to perform DFS traversal
+        def bst(root, min_val=float("-inf"), max_val=float("inf")):
+            # Base case: If the current node is None, return True
+            if root == None:
+                return True
+
+            # Check if the current node's value is within the valid range
+            if not (min_val < root.val < max_val):
+                return False
+
+            # Recursively check the left and right subtrees with updated ranges
+            return bst(root.left, min_val, root.val) and bst(
+                root.right, root.val, max_val
+            )
+
+        # Call the helper function with the root node
+        return bst(root)
