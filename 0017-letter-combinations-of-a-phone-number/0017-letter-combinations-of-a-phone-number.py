@@ -2,16 +2,19 @@ class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         if not digits:
             return []
-        phone = {"2": "abc", "3": "def", "4": "ghi", "5": "jkl", "6": "mno", "7": "pqrs", "8": "tuv", "9": "wxyz"}
-        res = []
+        ans = []
+        output = ""
+        index = 0
+        mapping = ["", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"]
+        self.backtrack(digits,output,index,ans,mapping)
+        return ans
 
-        def backtrack(digits,combination):
-            if not digits:
-                res.append(combination)
-                return
-            for letter in phone[digits[0]]:
-                backtrack(digits[1:],combination+letter)
-
-        backtrack(digits,"")
-        return res
-        
+    def backtrack(self,digits,output,index,ans,mapping):
+        #base case
+        if index>=len(digits):
+            ans.append(output)
+            return
+        num = int(digits[index])
+        value = mapping[num]
+        for char in value:
+            self.backtrack(digits,output+char,index+1,ans,mapping)
