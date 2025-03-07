@@ -32,6 +32,7 @@ LeetCode Solution
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mysomu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/mysomu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/mysomu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mysomu/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mysomu/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -425,6 +426,7 @@ LeetCode Solution
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2610-closest-prime-numbers-in-range](https://github.com/mysomu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
