@@ -1,23 +1,37 @@
 class Solution:
-    def isMatch(self, text: str, pattern: str) -> bool:
-        n1, n2 = len(text), len(pattern)
-        dp = [[False] * (n2 + 1) for _ in range(n1 + 1)]
-
-        dp[0][0] = True
-
-        # Handle the pattern for leading '*' characters
-        for j in range(1, n2 + 1):
-            if pattern[j - 1] == '*':
-                dp[0][j] = dp[0][j - 1]
-
-        # Fill the dp table
-        for i in range(1, n1 + 1):
-            for j in range(1, n2 + 1):
-                if text[i - 1] == pattern[j - 1] or pattern[j - 1] == '?':
-                    dp[i][j] = dp[i - 1][j - 1]
-                elif pattern[j - 1] == '*':
-                    dp[i][j] = dp[i - 1][j] or dp[i][j - 1]
+    def isMatch(self, s: str, p: str) -> bool:
+        if p == "":
+            return s == ""
+        ppoint = 0
+        spoint = 0
+        old_p = 0
+        old_s = len(s)
+        while True:
+            if spoint == len(s):
+                if ppoint == len(p):
+                    return True
+                
+                if p[ppoint] != "*":
+                    return False
+                
+                ppoint += 1
+            elif ppoint == len(p):
+                ppoint = old_p
+                spoint = old_s
+                old_s += 1
+            elif p[ppoint] == "?":
+                spoint += 1
+                ppoint += 1
+            elif p[ppoint] != "*":
+                if p[ppoint] == s[spoint]:
+                    ppoint += 1
+                    spoint += 1
                 else:
-                    dp[i][j] = False
+                    ppoint = old_p
+                    spoint = old_s
+                    old_s += 1
+            else:
+                ppoint += 1
+                old_p = ppoint
+                old_s = spoint
 
-        return dp[n1][n2]
