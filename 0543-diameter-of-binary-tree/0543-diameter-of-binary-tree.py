@@ -5,20 +5,24 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def __init__(self):
-        self.diameter = 0
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        self.findDepthdfs(root)
+        self.diameter = 0  # Initialize diameter
+        
+        def findDepthdfs(node):
+            if node is None:
+                return 0
+            left = findDepthdfs(node.left)
+            right = findDepthdfs(node.right)
+            
+            # Update diameter at this node
+            self.diameter = max(self.diameter, left + right)
+            
+            return 1 + max(left, right) 
+        
+        findDepthdfs(root)
         return self.diameter
-    def findDepthdfs(self, root):
-        if root is None:
-            return 0
-        left = self.findDepthdfs(root.left) 
-        right = self.findDepthdfs(root.right) 
+        return self.diameter
 
-        self.diameter = max(self.diameter, left+right)
-
-        return 1+max(left,right)
         
 
 
