@@ -229,6 +229,7 @@ LeetCode Solution
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/mysomu/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mysomu/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/mysomu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mysomu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -447,6 +448,7 @@ LeetCode Solution
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mysomu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/mysomu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/mysomu/LeetCode/tree/master/2145-grid-game) |
@@ -497,6 +499,7 @@ LeetCode Solution
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mysomu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
