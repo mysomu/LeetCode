@@ -71,6 +71,7 @@ LeetCode Solution
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mysomu/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mysomu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/mysomu/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -114,6 +115,7 @@ LeetCode Solution
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mysomu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -271,6 +273,7 @@ LeetCode Solution
 | [2107-find-unique-binary-string](https://github.com/mysomu/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/mysomu/LeetCode/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mysomu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -469,12 +472,14 @@ LeetCode Solution
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mysomu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/mysomu/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
 |  |
 | ------- |
