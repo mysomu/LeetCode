@@ -1,46 +1,50 @@
-import java.util.*;
-
 class Solution {
     public int[] maxPoints(int[][] grid, int[] queries) {
-        int m = grid.length, n = grid[0].length;
-        int[] sortedQueries = queries.clone();
-        Arrays.sort(sortedQueries);
-        Map<Integer, Integer> queryResult = new HashMap<>();
-        int[] answer = new int[queries.length];
-
-        int[][] directions = {{0,1}, {0,-1}, {1,0}, {-1,0}};
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        Set<String> visited = new HashSet<>();
-
-        minHeap.offer(new int[]{grid[0][0], 0, 0});
-        visited.add("0,0");
-
-        int points = 0;
-
-        for (int query : sortedQueries) {
-            while (!minHeap.isEmpty() && minHeap.peek()[0] < query) {
-                int[] cell = minHeap.poll();
-                int val = cell[0], r = cell[1], c = cell[2];
-
-                points++;
-
-                for (int[] dir : directions) {
-                    int nr = r + dir[0], nc = c + dir[1];
-                    String key = nr + "," + nc;
-
-                    if (nr >= 0 && nr < m && nc >= 0 && nc < n && !visited.contains(key)) {
-                        visited.add(key);
-                        minHeap.offer(new int[]{grid[nr][nc], nr, nc});
+        int R=grid.length;
+        int C=grid[0].length;
+        int Q=queries.length;
+        int[]ans=new int[Q];
+        int[][]A=new int[Q][2];
+        for(int i=0;i<Q;i++){
+            A[i]=new int[]{queries[i],i};
+        }
+        Arrays.sort(A,(a,b)->Integer.compare(a[0],b[0]));
+        Queue<int[]>next=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
+        boolean[][]vis=new boolean[R][C];
+        vis[0][0]=true;
+        next.offer(new int[]{grid[0][0],0,0});
+        int total=0;
+        for(int i=0;i<Q;i++){
+            int query=A[i][0];
+            int idx=A[i][1];
+            Queue<int[]>q=new LinkedList<>();
+            while(!next.isEmpty() && next.peek()[0]<query){
+                int[]el=next.poll();
+                q.offer(new int[]{el[1],el[2]});
+            }
+            while(!q.isEmpty()){
+                int[]curr=q.poll();
+                int r0=curr[0],c0=curr[1];
+                if(grid[r0][c0]>=query){
+                    next.offer(curr);
+                    continue;
+                }
+                total++;
+                int[]dirs={0,1,0,-1,0};
+                for(int d=0;d<4;d++){
+                    int r1=r0+dirs[d];
+                    int c1=c0+dirs[d+1];
+                    if(r1<0 || r1>=R || c1<0 || c1>=C || vis[r1][c1])continue;
+                    vis[r1][c1]=true;
+                    if(grid[r1][c1]>=query){
+                        next.offer(new int[]{grid[r1][c1],r1,c1});
+                    }else{
+                        q.offer(new int[]{r1,c1});
                     }
                 }
             }
-            queryResult.put(query, points);
+            ans[idx]=total;
         }
-
-        for (int i = 0; i < queries.length; i++) {
-            answer[i] = queryResult.get(queries[i]);
-        }
-
-        return answer;
+        return ans;
     }
 }
