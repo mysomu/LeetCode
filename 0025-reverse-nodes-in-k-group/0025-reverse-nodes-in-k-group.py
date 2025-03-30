@@ -1,3 +1,8 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         count, temp = 0, head
@@ -26,4 +31,3 @@ class Solution:
             prev = curr
             curr = next_node
         return prev
-
