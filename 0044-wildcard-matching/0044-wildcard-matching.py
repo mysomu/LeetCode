@@ -1,37 +1,21 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        if p == "":
-            return s == ""
-        ppoint = 0
-        spoint = 0
-        old_p = 0
-        old_s = len(s)
-        while True:
-            if spoint == len(s):
-                if ppoint == len(p):
-                    return True
-                
-                if p[ppoint] != "*":
-                    return False
-                
-                ppoint += 1
-            elif ppoint == len(p):
-                ppoint = old_p
-                spoint = old_s
-                old_s += 1
-            elif p[ppoint] == "?":
-                spoint += 1
-                ppoint += 1
-            elif p[ppoint] != "*":
-                if p[ppoint] == s[spoint]:
-                    ppoint += 1
-                    spoint += 1
-                else:
-                    ppoint = old_p
-                    spoint = old_s
-                    old_s += 1
-            else:
-                ppoint += 1
-                old_p = ppoint
-                old_s = spoint
-
+        m, n = len(s), len(p)
+        dp = [[False] * (n + 1) for _ in range(m + 1)]
+        
+        # Empty string matches empty pattern
+        dp[0][0] = True
+        
+        # Fill first row for patterns with '*'
+        for j in range(1, n + 1):
+            if p[j - 1] == '*':
+                dp[0][j] = dp[0][j - 1]
+        
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                if s[i - 1] == p[j - 1] or p[j - 1] == '?':
+                    dp[i][j] = dp[i - 1][j - 1]
+                elif p[j - 1] == '*':
+                    dp[i][j] = dp[i - 1][j] or dp[i][j - 1]
+        
+        return dp[m][n]      
