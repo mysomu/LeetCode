@@ -1,28 +1,28 @@
 class Solution {
-    public boolean isMatch(String str, String pattern) {
-        int s = 0, p = 0, match = 0, starIdx = -1;            
-        while (s < str.length()){
-            if (p < pattern.length()  && (pattern.charAt(p) == '?' || str.charAt(s) == pattern.charAt(p))){
-                s++;
-                p++;
+    public boolean isMatch(String s, String p) {
+        int m = s.length(), n = p.length();
+        boolean[][] dp = new boolean[m + 1][n + 1];
+        
+        // Empty string matches empty pattern
+        dp[0][0] = true;
+        
+        // Fill first row for patterns with '*'
+        for (int j = 1; j <= n; j++) {
+            if (p.charAt(j - 1) == '*') {
+                dp[0][j] = dp[0][j - 1];
             }
-            else if (p < pattern.length() && pattern.charAt(p) == '*'){
-                starIdx = p;
-                match = s;
-                p++;
-            }
-            else if (starIdx != -1){
-                p = starIdx + 1;
-                match++;
-                s = match;
-            }
-            else return false;
         }
         
-        while (p < pattern.length() && pattern.charAt(p) == '*')
-            p++;
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (s.charAt(i - 1) == p.charAt(j - 1) || p.charAt(j - 1) == '?') {
+                    dp[i][j] = dp[i - 1][j - 1];
+                } else if (p.charAt(j - 1) == '*') {
+                    dp[i][j] = dp[i - 1][j] || dp[i][j - 1];
+                }
+            }
+        }
         
-        return p == pattern.length();
-
+        return dp[m][n];
     }
 }
