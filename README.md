@@ -180,6 +180,7 @@ LeetCode Solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mysomu/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mysomu/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mysomu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -396,6 +397,7 @@ LeetCode Solution
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/mysomu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/mysomu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -516,6 +518,7 @@ LeetCode Solution
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mysomu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mysomu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -527,6 +530,7 @@ LeetCode Solution
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/mysomu/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mysomu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
