@@ -108,6 +108,7 @@ LeetCode Solution
 | [0022-generate-parentheses](https://github.com/mysomu/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mysomu/LeetCode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/mysomu/LeetCode/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/mysomu/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
@@ -473,6 +474,7 @@ LeetCode Solution
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mysomu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/mysomu/LeetCode/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/mysomu/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mysomu/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
