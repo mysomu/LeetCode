@@ -28,6 +28,7 @@ LeetCode Solution
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mysomu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -67,6 +68,7 @@ LeetCode Solution
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mysomu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mysomu/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
@@ -281,6 +283,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
+| [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mysomu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/mysomu/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
@@ -404,6 +407,7 @@ LeetCode Solution
 | [0330-patching-array](https://github.com/mysomu/LeetCode/tree/master/0330-patching-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
