@@ -167,6 +167,7 @@ LeetCode Solution
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mysomu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mysomu/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mysomu/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mysomu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mysomu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mysomu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -365,6 +366,7 @@ LeetCode Solution
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mysomu/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mysomu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/mysomu/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mysomu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mysomu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
