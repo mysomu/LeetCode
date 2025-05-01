@@ -237,6 +237,7 @@ LeetCode Solution
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mysomu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mysomu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mysomu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -324,6 +325,7 @@ LeetCode Solution
 | [2145-grid-game](https://github.com/mysomu/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mysomu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/mysomu/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -429,6 +431,7 @@ LeetCode Solution
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mysomu/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -533,6 +536,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mysomu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mysomu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -653,6 +657,7 @@ LeetCode Solution
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mysomu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mysomu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mysomu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mysomu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
@@ -773,5 +778,6 @@ LeetCode Solution
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mysomu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
