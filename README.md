@@ -51,6 +51,7 @@ LeetCode Solution
 | [3243-count-the-number-of-powerful-integers](https://github.com/mysomu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@ LeetCode Solution
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mysomu/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/mysomu/LeetCode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mysomu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -535,6 +537,7 @@ LeetCode Solution
 | [2562-count-ways-to-build-good-strings](https://github.com/mysomu/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mysomu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sorting
 |  |
 | ------- |
@@ -798,6 +801,7 @@ LeetCode Solution
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mysomu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Queue
 |  |
 | ------- |
