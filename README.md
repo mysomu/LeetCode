@@ -749,6 +749,7 @@ LeetCode Solution
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/mysomu/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mysomu/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
