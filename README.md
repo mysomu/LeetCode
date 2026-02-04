@@ -39,6 +39,7 @@ LeetCode Solution
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/mysomu/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mysomu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mysomu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/mysomu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -351,6 +352,7 @@ LeetCode Solution
 | [2280-count-good-triplets-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/mysomu/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mysomu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/mysomu/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mysomu/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -567,6 +569,7 @@ LeetCode Solution
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mysomu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mysomu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mysomu/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -637,6 +640,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/mysomu/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mysomu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -651,6 +655,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mysomu/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2434-design-a-number-container-system](https://github.com/mysomu/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/mysomu/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
