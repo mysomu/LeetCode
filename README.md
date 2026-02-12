@@ -521,6 +521,7 @@ LeetCode Solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mysomu/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/mysomu/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mysomu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/mysomu/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/mysomu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mysomu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -701,6 +702,7 @@ LeetCode Solution
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mysomu/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mysomu/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mysomu/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/mysomu/LeetCode/tree/master/0937-online-stock-span) |
