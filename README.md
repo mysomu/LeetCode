@@ -866,4 +866,12 @@ LeetCode Solution
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mysomu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Union-Find
+|  |
+| ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph Theory
+|  |
+| ------- |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
