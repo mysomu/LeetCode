@@ -200,6 +200,7 @@ LeetCode Solution
 | [0094-binary-tree-inorder-traversal](https://github.com/mysomu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -282,6 +283,7 @@ LeetCode Solution
 | [0094-binary-tree-inorder-traversal](https://github.com/mysomu/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -491,6 +493,7 @@ LeetCode Solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mysomu/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mysomu/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mysomu/LeetCode/tree/master/0200-number-of-islands) |
