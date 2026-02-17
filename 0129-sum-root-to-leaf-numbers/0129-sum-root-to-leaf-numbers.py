@@ -6,14 +6,19 @@
 #         self.right = right
 class Solution:
     def sumNumbers(self, root: Optional[TreeNode]) -> int:
-        def findsum(root,curr_sum):
-            if not root:
-                return 0
-            curr_sum = curr_sum*10 + root.val
-            if not root.left and not root.right:
-                return curr_sum
-            return findsum(root.left,curr_sum) + findsum(root.right, curr_sum)
-        val = 0
-        res = findsum(root,val)
-        return res
+        if not root:
+            return 0
+        self.finalans = 0
+        res = 0
+        self.findSum(root,res)
+        return self.finalans
+    def findSum(self,root,res):
+        if not root:
+            return
+        res = res*10+root.val
+        if not root.left and not root.right:
+            self.finalans += res
+            return
+        self.findSum(root.left, res)
+        self.findSum(root.right, res)
         
