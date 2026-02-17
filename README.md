@@ -434,6 +434,7 @@ LeetCode Solution
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mysomu/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mysomu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mysomu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3640-trionic-array-ii](https://github.com/mysomu/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/mysomu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mysomu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mysomu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -593,6 +594,7 @@ LeetCode Solution
 | [3243-count-the-number-of-powerful-integers](https://github.com/mysomu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mysomu/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/mysomu/LeetCode/tree/master/3640-trionic-array-ii) |
 ## Sorting
 |  |
 | ------- |
