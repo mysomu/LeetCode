@@ -6,22 +6,24 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def inorder(node: Optional[TreeNode]) -> None:
-            nonlocal prev, isValid
-            if not isValid or not node:
-                return
+        self.prev = None
+        self.isValid = True
+        self.inorder(root)
+        return self.isValid
 
-            inorder(node.left)
-
-            if prev is not None and prev >= node.val:
-                isValid = False
-                return
-            
-            prev = node.val
-            
-            inorder(node.right)
+    def inorder(self, root):
+        if not root:
+            return
         
-        prev = None  
-        isValid = True  
-        inorder(root)
-        return isValid
+        self.inorder(root.left)
+
+        if self.prev is not None and self.prev >= root.val:
+            self.isValid = False
+            return
+        
+        self.prev = root.val
+        
+        self.inorder(root.right)
+
+        
+       
