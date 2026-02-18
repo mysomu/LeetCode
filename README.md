@@ -773,6 +773,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mysomu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mysomu/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
