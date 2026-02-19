@@ -265,6 +265,7 @@ LeetCode Solution
 | [0222-count-complete-tree-nodes](https://github.com/mysomu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -335,6 +336,7 @@ LeetCode Solution
 | [0198-house-robber](https://github.com/mysomu/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mysomu/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/mysomu/LeetCode/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/mysomu/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -581,6 +583,7 @@ LeetCode Solution
 | [0072-edit-distance](https://github.com/mysomu/LeetCode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/mysomu/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/mysomu/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
