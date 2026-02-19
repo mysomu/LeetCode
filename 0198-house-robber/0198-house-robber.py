@@ -1,23 +1,15 @@
-# Using Memoization
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp = [-1] * len(nums)
-        return self.memoiz(0, nums, dp)
-    
-    def memoiz(self, i, nums, dp):
-        # Base case
-        if i >= len(nums):
-            return 0
-        
-        # Already computed
-        if dp[i] != -1:
-            return dp[i]
-        
-        # Take current house
-        take = nums[i] + self.memoiz(i + 2, nums, dp)
+        if len(nums) == 1:
+            return nums[0]
+        dp = [0]*len(nums)
 
-        # Skip current house
-        not_take = self.memoiz(i + 1, nums, dp)
+        dp[0]=nums[0]
+        dp[1] = max(nums[0],nums[1])
 
-        dp[i] = max(take, not_take)
-        return dp[i]
+        for i in range(2,len(nums)):
+            include = dp[i-2]+nums[i]
+            exclude = dp[i-1]
+            dp[i] = max(include,exclude)
+        
+        return dp[-1]
