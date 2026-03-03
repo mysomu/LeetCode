@@ -30,6 +30,7 @@ LeetCode Solution
 | [0150-evaluate-reverse-polish-notation](https://github.com/mysomu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mysomu/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/mysomu/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -80,6 +81,7 @@ LeetCode Solution
 | [0141-linked-list-cycle](https://github.com/mysomu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -265,6 +267,7 @@ LeetCode Solution
 | [0222-count-complete-tree-nodes](https://github.com/mysomu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mysomu/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -336,6 +339,7 @@ LeetCode Solution
 | [0198-house-robber](https://github.com/mysomu/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mysomu/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0330-patching-array](https://github.com/mysomu/LeetCode/tree/master/0330-patching-array) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -610,6 +614,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -776,6 +781,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/mysomu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mysomu/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mysomu/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
