@@ -81,6 +81,7 @@ LeetCode Solution
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mysomu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/mysomu/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/mysomu/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mysomu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mysomu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
@@ -143,6 +144,7 @@ LeetCode Solution
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mysomu/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/mysomu/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/mysomu/LeetCode/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/mysomu/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
@@ -337,6 +339,7 @@ LeetCode Solution
 | [0039-combination-sum](https://github.com/mysomu/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mysomu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mysomu/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/mysomu/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/mysomu/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/mysomu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mysomu/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -622,6 +625,7 @@ LeetCode Solution
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mysomu/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
