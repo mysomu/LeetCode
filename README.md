@@ -325,6 +325,7 @@ LeetCode Solution
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mysomu/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mysomu/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/mysomu/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mysomu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mysomu/LeetCode/tree/master/0046-permutations) |
@@ -468,6 +469,7 @@ LeetCode Solution
 | [0005-longest-palindromic-substring](https://github.com/mysomu/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mysomu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/mysomu/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/mysomu/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mysomu/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
