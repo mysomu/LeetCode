@@ -79,6 +79,7 @@ LeetCode Solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/mysomu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mysomu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/mysomu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/mysomu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
@@ -138,6 +139,7 @@ LeetCode Solution
 | [0012-integer-to-roman](https://github.com/mysomu/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mysomu/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/mysomu/LeetCode/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/mysomu/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/mysomu/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/mysomu/LeetCode/tree/master/0072-edit-distance) |
@@ -185,6 +187,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mysomu/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
