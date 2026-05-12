@@ -1,38 +1,19 @@
 class Solution {
-    boolean isPossible(int[][]tasks, int energy ){
-        for(int [] task: tasks){
-            int actual = task[0];
-            int minimum = task[1];
-            //If current energy is less than required minimum
-            if(energy<minimum){
-                return false;
-            }
-            energy -= actual;
-        }
-        return true;
-    }
     public int minimumEffort(int[][] tasks) {
-        int n = tasks.length;
-        // Sort by (minimum - actual) in descending order
-        Arrays.sort(tasks,(task1,task2)->{
-            int diff1 = task1[1]-task1[0];
-            int diff2 = task2[1]-task2[0];
-            return diff2-diff1;
+        Arrays.sort(tasks, (a, b) -> (b[1] - b[0]) - (a[1] - a[0]));
 
-        });
-        int l=0;
-        int r = (int) 1e9;
-        int res = Integer.MAX_VALUE;
-        //Binary Search
-        while(l<=r){
-            int mid = l+(r-l)/2;
-            if(isPossible(tasks,mid)){
-                res = mid;
-                r = mid-1;
-            }else{
-                l = mid+1;
+        int energy = 0;
+        int curr = 0;
+
+        for (int[] task : tasks) {
+            if (curr < task[1]) {
+                energy += task[1] - curr;
+                curr = task[1];
             }
+
+            curr -= task[0];
         }
-        return res;
+
+        return energy;
     }
 }
