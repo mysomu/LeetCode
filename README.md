@@ -419,6 +419,7 @@ LeetCode Solution
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mysomu/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mysomu/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/mysomu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/mysomu/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mysomu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -761,6 +762,7 @@ LeetCode Solution
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/mysomu/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/mysomu/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mysomu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/mysomu/LeetCode/tree/master/3447-clear-digits) |
