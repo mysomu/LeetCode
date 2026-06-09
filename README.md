@@ -474,6 +474,7 @@ LeetCode Solution
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mysomu/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mysomu/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/mysomu/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mysomu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -536,6 +537,7 @@ LeetCode Solution
 | [3001-apply-operations-to-maximize-score](https://github.com/mysomu/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mysomu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3689-maximum-total-subarray-value-i](https://github.com/mysomu/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Breadth-First Search
 |  |
 | ------- |
