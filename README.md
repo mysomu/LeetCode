@@ -395,6 +395,7 @@ LeetCode Solution
 | [1732-find-the-highest-altitude](https://github.com/mysomu/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1813-maximum-erasure-value](https://github.com/mysomu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/mysomu/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mysomu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mysomu/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mysomu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -532,6 +533,7 @@ LeetCode Solution
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mysomu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mysomu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -663,6 +665,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mysomu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mysomu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mysomu/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mysomu/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/mysomu/LeetCode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
