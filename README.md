@@ -97,6 +97,7 @@ LeetCode Solution
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/mysomu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mysomu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +159,7 @@ LeetCode Solution
 | [1160-letter-tile-possibilities](https://github.com/mysomu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mysomu/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/mysomu/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/mysomu/LeetCode/tree/master/1508-longest-happy-prefix) |
@@ -199,6 +201,7 @@ LeetCode Solution
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mysomu/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/mysomu/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mysomu/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
