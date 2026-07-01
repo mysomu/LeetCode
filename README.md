@@ -307,6 +307,7 @@ LeetCode Solution
 | [2665-minimum-time-to-repair-cars](https://github.com/mysomu/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/mysomu/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mysomu/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/mysomu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3643-zero-array-transformation-ii](https://github.com/mysomu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -455,6 +456,7 @@ LeetCode Solution
 | [2761-prime-pairs-with-target-sum](https://github.com/mysomu/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mysomu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mysomu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mysomu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mysomu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -572,6 +574,7 @@ LeetCode Solution
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/mysomu/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mysomu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/mysomu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -719,6 +722,7 @@ LeetCode Solution
 | [2508-maximum-sum-of-an-hourglass](https://github.com/mysomu/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mysomu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mysomu/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mysomu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mysomu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -771,6 +775,7 @@ LeetCode Solution
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mysomu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mysomu/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/mysomu/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mysomu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -984,6 +989,7 @@ LeetCode Solution
 |  |
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
