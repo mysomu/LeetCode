@@ -316,6 +316,7 @@ LeetCode Solution
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/mysomu/LeetCode/tree/master/3161-block-placement-queries) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/mysomu/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3643-zero-array-transformation-ii](https://github.com/mysomu/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Tree
 |  |
@@ -488,6 +489,7 @@ LeetCode Solution
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mysomu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mysomu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mysomu/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mysomu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mysomu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -667,6 +669,7 @@ LeetCode Solution
 | [2586-longest-square-streak-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mysomu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mysomu/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mysomu/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3640-trionic-array-ii](https://github.com/mysomu/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -758,6 +761,7 @@ LeetCode Solution
 | [0210-course-schedule-ii](https://github.com/mysomu/LeetCode/tree/master/0210-course-schedule-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mysomu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/mysomu/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |
@@ -791,6 +795,7 @@ LeetCode Solution
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mysomu/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/mysomu/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mysomu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mysomu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Stack
@@ -966,6 +971,7 @@ LeetCode Solution
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mysomu/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mysomu/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/mysomu/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mysomu/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
@@ -1012,4 +1018,5 @@ LeetCode Solution
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mysomu/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
