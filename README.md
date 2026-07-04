@@ -278,6 +278,7 @@ LeetCode Solution
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mysomu/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mysomu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mysomu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mysomu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/mysomu/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2793-count-the-number-of-complete-components](https://github.com/mysomu/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -581,6 +582,7 @@ LeetCode Solution
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mysomu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mysomu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mysomu/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/mysomu/LeetCode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mysomu/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1012,11 +1014,13 @@ LeetCode Solution
 |  |
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mysomu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mysomu/LeetCode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mysomu/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mysomu/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
