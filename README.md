@@ -373,6 +373,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mysomu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mysomu/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mysomu/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/mysomu/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -870,6 +871,7 @@ LeetCode Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mysomu/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/mysomu/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mysomu/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
