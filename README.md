@@ -64,6 +64,7 @@ LeetCode Solution
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mysomu/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mysomu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -776,6 +777,7 @@ LeetCode Solution
 | [2610-closest-prime-numbers-in-range](https://github.com/mysomu/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/mysomu/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mysomu/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mysomu/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
