@@ -133,6 +133,7 @@ LeetCode Solution
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mysomu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mysomu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mysomu/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mysomu/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -483,6 +484,7 @@ LeetCode Solution
 | [2888-minimum-index-of-a-valid-split](https://github.com/mysomu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/mysomu/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mysomu/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mysomu/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mysomu/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/mysomu/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mysomu/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -743,6 +745,7 @@ LeetCode Solution
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mysomu/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/mysomu/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/mysomu/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mysomu/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mysomu/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mysomu/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/mysomu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
