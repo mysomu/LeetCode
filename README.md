@@ -44,6 +44,7 @@ LeetCode Solution
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mysomu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mysomu/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/mysomu/LeetCode/tree/master/1500-count-largest-group) |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mysomu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/mysomu/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -699,6 +700,7 @@ LeetCode Solution
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/mysomu/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/mysomu/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mysomu/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/mysomu/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1086,12 +1088,23 @@ LeetCode Solution
 | ------- |
 | [0486-predict-the-winner](https://github.com/mysomu/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/mysomu/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
