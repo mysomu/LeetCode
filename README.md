@@ -223,6 +223,7 @@ LeetCode Solution
 | [3637-count-number-of-balanced-permutations](https://github.com/mysomu/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3713-longest-balanced-substring-i](https://github.com/mysomu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mysomu/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mysomu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -589,6 +590,7 @@ LeetCode Solution
 | [2816-lexicographically-smallest-palindrome](https://github.com/mysomu/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/mysomu/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mysomu/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mysomu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mysomu/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -966,6 +968,7 @@ LeetCode Solution
 | [2998-count-symmetric-integers](https://github.com/mysomu/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/mysomu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mysomu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
