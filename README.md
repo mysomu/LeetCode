@@ -416,6 +416,7 @@ LeetCode Solution
 | [0198-house-robber](https://github.com/mysomu/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mysomu/LeetCode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/mysomu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mysomu/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -660,6 +661,7 @@ LeetCode Solution
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mysomu/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
