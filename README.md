@@ -185,6 +185,7 @@ LeetCode Solution
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/mysomu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/mysomu/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0952-word-subsets](https://github.com/mysomu/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mysomu/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mysomu/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -737,6 +738,7 @@ LeetCode Solution
 | [0486-predict-the-winner](https://github.com/mysomu/LeetCode/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mysomu/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/mysomu/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/mysomu/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/mysomu/LeetCode/tree/master/1170-shortest-common-supersequence) |
