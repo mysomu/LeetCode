@@ -93,6 +93,7 @@ LeetCode Solution
 | [0234-palindrome-linked-list](https://github.com/mysomu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/mysomu/LeetCode/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/mysomu/LeetCode/tree/master/2050-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ LeetCode Solution
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mysomu/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mysomu/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/mysomu/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -552,6 +554,7 @@ LeetCode Solution
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mysomu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mysomu/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mysomu/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -1005,6 +1008,7 @@ LeetCode Solution
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mysomu/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/mysomu/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/mysomu/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/mysomu/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mysomu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
