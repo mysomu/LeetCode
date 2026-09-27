@@ -204,6 +204,7 @@ LeetCode Solution
 | [1096-brace-expansion-ii](https://github.com/mysomu/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/mysomu/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/mysomu/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mysomu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/mysomu/LeetCode/tree/master/1304-longest-happy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -746,6 +747,7 @@ LeetCode Solution
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/mysomu/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mysomu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mysomu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1235,4 +1237,8 @@ LeetCode Solution
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mysomu/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mysomu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
