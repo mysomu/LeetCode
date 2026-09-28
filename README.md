@@ -213,6 +213,7 @@ LeetCode Solution
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/mysomu/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mysomu/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysomu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mysomu/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -748,6 +749,7 @@ LeetCode Solution
 | [1002-maximum-width-ramp](https://github.com/mysomu/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/mysomu/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mysomu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysomu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mysomu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mysomu/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1241,4 +1243,5 @@ LeetCode Solution
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mysomu/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysomu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
