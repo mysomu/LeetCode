@@ -112,6 +112,7 @@ LeetCode Solution
 | [0141-linked-list-cycle](https://github.com/mysomu/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mysomu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mysomu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -195,6 +196,7 @@ LeetCode Solution
 | [0125-valid-palindrome](https://github.com/mysomu/LeetCode/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/mysomu/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/mysomu/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/mysomu/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/mysomu/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0768-partition-labels](https://github.com/mysomu/LeetCode/tree/master/0768-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/mysomu/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -817,6 +819,7 @@ LeetCode Solution
 | [0088-merge-sorted-array](https://github.com/mysomu/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mysomu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mysomu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mysomu/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mysomu/LeetCode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/mysomu/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
