@@ -1,7 +1,10 @@
 import pandas as pd
 
 def invalid_tweets(tweets: pd.DataFrame) -> pd.DataFrame:
-    return tweets[
+    # Calculate content length and filter
+    invalid = tweets[
         tweets['content'].str.len() > 15
-    ][['tweet_id']]
+    ]    
+    # Return only tweet_id column
+    return invalid[['tweet_id']]
     
