@@ -1,33 +1,33 @@
 class Solution {
     public int minInsertions(String s) {
-        Stack<Character> st = new Stack<>();
-        int res = 0;
-        for(int i=0;i<s.length();i++) {
-            char ch = s.charAt(i);
-            if(ch == '(') {
-                st.push(ch);
-            }
-            else {
-                if(st.isEmpty()) {
-                    if(i < s.length()-1 && s.charAt(i+1) == ')') {
-                        i++;
-                    }
-                    else {
-                        res++;
-                    }
-                    res++;
+        int openNeeded = 0;
+        int openCount = 0;
+        int i = 0;
+        int n = s.length();
+        char[] arr = s.toCharArray();
+        
+        while (i < n) {
+            if (arr[i] == '(') {
+                openCount++;
+                i++;
+            } else {
+                if (i + 1 < n && arr[i + 1] == ')') {
+                    i += 2; 
+                } else {
+                    openNeeded++; 
+                    i += 1;
                 }
-                else {
-                    if(i < s.length()-1 && s.charAt(i+1) == ')') {
-                        i++;
-                    }
-                    else {
-                        res++;
-                    }
-                    st.pop();
+                
+                if (openCount > 0) {
+                    openCount--;
+                } else {
+                    openNeeded++;
                 }
             }
         }
-        return res+st.size()*2;
+
+        openNeeded += openCount * 2;
+        
+        return openNeeded;
     }
 }
