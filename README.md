@@ -364,6 +364,7 @@ LeetCode Solution
 | [0669-trim-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mysomu/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/mysomu/LeetCode/tree/master/0704-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/mysomu/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/mysomu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/mysomu/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -464,6 +465,7 @@ LeetCode Solution
 | [0486-predict-the-winner](https://github.com/mysomu/LeetCode/tree/master/0486-predict-the-winner) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/mysomu/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/mysomu/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/mysomu/LeetCode/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/mysomu/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0835-image-overlap](https://github.com/mysomu/LeetCode/tree/master/0835-image-overlap) |
