@@ -510,6 +510,7 @@ LeetCode Solution
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/mysomu/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mysomu/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/mysomu/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mysomu/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/mysomu/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/mysomu/LeetCode/tree/master/2029-stone-game-ix) |
@@ -991,6 +992,7 @@ LeetCode Solution
 | [0054-spiral-matrix](https://github.com/mysomu/LeetCode/tree/master/0054-spiral-matrix) |
 | [0983-validate-stack-sequences](https://github.com/mysomu/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mysomu/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/mysomu/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/mysomu/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/mysomu/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/mysomu/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
