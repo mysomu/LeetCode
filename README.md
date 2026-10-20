@@ -567,6 +567,7 @@ LeetCode Solution
 | [2761-prime-pairs-with-target-sum](https://github.com/mysomu/LeetCode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mysomu/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/mysomu/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mysomu/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mysomu/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mysomu/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mysomu/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
