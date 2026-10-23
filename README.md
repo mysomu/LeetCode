@@ -77,6 +77,7 @@ LeetCode Solution
 | [3321-type-of-triangle](https://github.com/mysomu/LeetCode/tree/master/3321-type-of-triangle) |
 | [3524-find-x-value-of-array-i](https://github.com/mysomu/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mysomu/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mysomu/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mysomu/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -605,6 +606,7 @@ LeetCode Solution
 | [3483-alternating-groups-ii](https://github.com/mysomu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/mysomu/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mysomu/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/mysomu/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mysomu/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mysomu/LeetCode/tree/master/3620-network-recovery-pathways) |
