@@ -229,6 +229,7 @@ LeetCode Solution
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mysomu/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mysomu/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mysomu/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/mysomu/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mysomu/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mysomu/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -896,6 +897,7 @@ LeetCode Solution
 | [1512-number-of-good-pairs](https://github.com/mysomu/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mysomu/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mysomu/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/mysomu/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/mysomu/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2029-stone-game-ix](https://github.com/mysomu/LeetCode/tree/master/2029-stone-game-ix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mysomu/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
