@@ -491,6 +491,7 @@ LeetCode Solution
 | [1140-stone-game-ii](https://github.com/mysomu/LeetCode/tree/master/1140-stone-game-ii) |
 | [1185-find-in-mountain-array](https://github.com/mysomu/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mysomu/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mysomu/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mysomu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
