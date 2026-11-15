@@ -133,6 +133,7 @@ LeetCode Solution
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mysomu/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysomu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/mysomu/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mysomu/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -499,6 +500,7 @@ LeetCode Solution
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mysomu/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/mysomu/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/mysomu/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysomu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1372-check-if-it-is-a-good-array](https://github.com/mysomu/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mysomu/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mysomu/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -877,6 +879,7 @@ LeetCode Solution
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mysomu/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/mysomu/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/mysomu/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysomu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mysomu/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mysomu/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mysomu/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1332,4 +1335,8 @@ LeetCode Solution
 | ------- |
 | [0070-climbing-stairs](https://github.com/mysomu/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mysomu/LeetCode/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mysomu/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
