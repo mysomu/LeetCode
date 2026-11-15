@@ -170,6 +170,7 @@ LeetCode Solution
 | [3227-find-missing-and-repeated-values](https://github.com/mysomu/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mysomu/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mysomu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/mysomu/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mysomu/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -611,6 +612,7 @@ LeetCode Solution
 | [3429-special-array-i](https://github.com/mysomu/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/mysomu/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mysomu/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mysomu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/mysomu/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/mysomu/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mysomu/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
